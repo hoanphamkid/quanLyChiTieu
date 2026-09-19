@@ -1,1 +1,17 @@
-{"expo":{"name":"Monee","slug":"monee","version":"1.0.0","scheme":"monee","orientation":"portrait","userInterfaceStyle":"dark","plugins":["expo-router"],"experiments":{"typedRoutes":true}}}
+{
+  "expo": {
+    "name": "Monee",
+    "slug": "monee",
+    "version": "1.0.0",
+    "scheme": "monee",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "plugins": [
+      "expo-router",
+      "expo-asset"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
