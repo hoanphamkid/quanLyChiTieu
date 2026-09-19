@@ -1,0 +1,1 @@
+export type TransactionType='income'|'expense'|'transfer'; export type Transaction={id:string;type:TransactionType;amount:number;category:string;icon:string;wallet:string;note?:string;date:string}; export type Wallet={id:string;name:string;type:string;balance:number;icon:string};

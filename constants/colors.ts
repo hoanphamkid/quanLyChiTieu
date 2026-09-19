@@ -1,0 +1,1 @@
+export const colors={background:'#101012',surface:'#1C1C20',card:'#202024',secondary:'#28282D',primary:'#78AEEA',expense:'#F17478',income:'#78D48B',text:'#F4F4F5',muted:'#9B9BA1',border:'rgba(255,255,255,0.08)'} as const;
